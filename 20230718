@@ -2,3 +2,5 @@ TIL
 주석, 변수, 메서드
 
 주석
+let color = "purple"
+print(color) // 출력값: purple
