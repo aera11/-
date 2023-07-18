@@ -10,9 +10,10 @@ swift 문법 특성
 230718
 주석, 변수, 메서드 익히기. 메서드가 너무 어렵게 느껴짐20230718
 
+(https://github.com/aera11/-/blob/a9f050ad2cbdf6ea82b03a4aa1861f5dc91253b9/20230718)
 
-[
-](https://github.com/aera11/-/blob/a9f050ad2cbdf6ea82b03a4aa1861f5dc91253b9/20230718)##20230718
+](https://github.com/aera11/-/blob/a9f050ad2cbdf6ea82b03a4aa1861f5dc91253b9/20230718)
+##20230718
 
 20230718# 변수 선언
 a = 10
